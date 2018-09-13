@@ -17,4 +17,15 @@ simply clone the repo, and run the compiled file
 
 if you are having issues, run the cavernous.py to preload certain assets
 
+this can be done by running 'python cavernous.py' in the root folder for the python script
+
+eg:
+
+cd /user/downloads/cavern_OS-master/
+
+python cavernous.py
+
+it might take time to unpackage and may exit when finished
+
+
 
